@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="1.8">
+      <module name="Transport.app" target="11" />
+      <module name="transport.app" target="11" />
+      <module name="transport.data" target="11" />
+      <module name="Transport.data" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

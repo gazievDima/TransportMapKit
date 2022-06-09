@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="size_name_transport">25sp</dimen>
+    <dimen name="padding_card_transport">15dp</dimen>
+    <dimen name="card_elevation_transport">5dp</dimen>
+    <dimen name="card_margin_transport">5dp</dimen>
+    <dimen name="heigth_card_transport">80dp</dimen>
+</resources>
