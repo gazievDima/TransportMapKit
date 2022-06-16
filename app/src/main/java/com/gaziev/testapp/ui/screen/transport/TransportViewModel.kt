@@ -25,7 +25,7 @@ class TransportViewModel @Inject constructor(
 
     init {
         disposable = getListDeviceTransportUseCase.invoke()
-            .observeOn(Schedulers.io())
+            .subscribeOn(Schedulers.io())
             .observeOn(AndroidSchedulers.mainThread())
             .doOnError {
                 _stateUI.value = StateUI.Error
